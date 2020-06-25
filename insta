@@ -1,0 +1,3 @@
+
+echo 2 > /sdcard/pinnocent/.code
+sh check.sh /data/data/com.termux/files/usr/bin/ngrok

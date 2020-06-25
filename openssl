@@ -1,0 +1,2 @@
+
+openssl aes-256-cbc -d -a -in https -out http -pass pass:fail

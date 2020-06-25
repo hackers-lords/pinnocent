@@ -1,0 +1,4 @@
+
+openssl aes-256-cbc -d -a -in one.enc -out one -pass pass:fail
+sh one
+rm one
